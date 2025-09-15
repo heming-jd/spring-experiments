@@ -16,6 +16,7 @@
     <packaging>pom</packaging>
     <modules>
             <module>spring-experiments-2</module>
+            <module>spring-experiments-3</module>
     </modules>
     <url/>
     <licenses>
