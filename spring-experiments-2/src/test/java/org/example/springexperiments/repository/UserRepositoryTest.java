@@ -14,7 +14,7 @@ public class UserRepositoryTest {
     @Test
     public void saveUser(){
         User user=User.builder()
-                .name("test1")
+                .name("test5")
                 .build();
         userRepository.save(user);//userRepository.save(new User("test","test","test"));
     }
